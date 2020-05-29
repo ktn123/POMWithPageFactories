@@ -1,0 +1,22 @@
+[DEBUG] 29-03-2020 19:03:15 c.o.t.FlightSearchTest [main]  - Before test method.
+[ERROR] 29-03-2020 19:03:22 c.o.b.Page [main]  - Chrome browser launched!!
+[DEBUG] 29-03-2020 19:03:49 c.w.u.TestUtil [main]  - Data Provider Called.
+[INFO ] 29-03-2020 19:03:49 c.w.u.TestUtil [main]  - SheetName: flightSearchTestCase Rows: 1 Col: 2
+[DEBUG] 29-03-2020 19:03:49 c.w.u.TestUtil [main]  - Is test Runnable Called.
+[DEBUG] 29-03-2020 19:03:49 c.w.u.TestUtil [main]  - SheetName: test_Suite TestMethod Name(From Excel): FlightSearchTestCase TestMethod Name passed: flightSearchTestCase
+[DEBUG] 29-03-2020 19:03:49 c.w.u.TestUtil [main]  - Test is runnable
+[DEBUG] 29-03-2020 19:03:49 c.o.p.a.HomePage [main]  - HomePage elements Intialized.
+[DEBUG] 29-03-2020 19:03:49 c.o.t.FlightSearchTest [main]  - GotoFlight method called.
+[ERROR] 29-03-2020 19:03:56 c.o.b.Page [main]  - Clicking on an element : [[ChromeDriver: chrome on XP (959ca4b2644b086825565ced62c9d826)] -> xpath: //*[@id="header"]/div[1]/ul/li[1]/a]
+[DEBUG] 29-03-2020 19:03:56 c.o.p.a.HomePage [main]  - FLight Tab Clicked
+[DEBUG] 29-03-2020 19:03:56 c.o.t.FlightSearchTest [main]  - bookAFlight method called.
+[DEBUG] 29-03-2020 19:03:57 c.o.p.a.HomePage [main]  - From city enetered and Tab Pressed.
+[DEBUG] 29-03-2020 19:03:58 c.o.p.a.HomePage [main]  - To city enetered and TAB Presses.
+[ERROR] 29-03-2020 19:03:58 c.o.b.Page [main]  - Clicking on an element : [[ChromeDriver: chrome on XP (959ca4b2644b086825565ced62c9d826)] -> xpath: //*[@id="departureCalendar"]]
+[DEBUG] 29-03-2020 19:03:58 c.o.p.a.HomePage [main]  - Calender clicked.
+[ERROR] 29-03-2020 19:03:58 c.o.b.Page [main]  - Clicking on an element : [[ChromeDriver: chrome on XP (959ca4b2644b086825565ced62c9d826)] -> id: fare_20200528]
+[DEBUG] 29-03-2020 19:03:58 c.o.p.a.HomePage [main]  - Departuring Date Selected.
+[ERROR] 29-03-2020 19:03:58 c.o.b.Page [main]  - Clicking on an element : [[ChromeDriver: chrome on XP (959ca4b2644b086825565ced62c9d826)] -> id: gi_search_btn]
+[DEBUG] 29-03-2020 19:03:58 c.o.p.a.HomePage [main]  - SearchButton Clicked.
+[DEBUG] 29-03-2020 19:03:59 c.o.t.FlightSearchTest [main]  - AfterTest method called
+[ERROR] 29-04-2020 19:04:00 c.o.b.Page [main]  - Quitting Driver.
